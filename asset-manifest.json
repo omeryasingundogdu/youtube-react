@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/youtube-react/static/css/main.cd4b276d.css",
-    "main.js": "/youtube-react/static/js/main.36db2cff.js",
-    "static/js/453.19c9e29f.chunk.js": "/youtube-react/static/js/453.19c9e29f.chunk.js",
-    "static/media/pfp.jpg": "/youtube-react/static/media/pfp.183c3a477d193a6cc972.jpg",
-    "index.html": "/youtube-react/index.html",
-    "main.cd4b276d.css.map": "/youtube-react/static/css/main.cd4b276d.css.map",
-    "main.36db2cff.js.map": "/youtube-react/static/js/main.36db2cff.js.map",
-    "453.19c9e29f.chunk.js.map": "/youtube-react/static/js/453.19c9e29f.chunk.js.map"
+    "main.css": "/yt-app/static/css/main.cd4b276d.css",
+    "main.js": "/yt-app/static/js/main.89881488.js",
+    "static/js/453.19c9e29f.chunk.js": "/yt-app/static/js/453.19c9e29f.chunk.js",
+    "static/media/pfp.jpg": "/yt-app/static/media/pfp.183c3a477d193a6cc972.jpg",
+    "index.html": "/yt-app/index.html",
+    "main.cd4b276d.css.map": "/yt-app/static/css/main.cd4b276d.css.map",
+    "main.89881488.js.map": "/yt-app/static/js/main.89881488.js.map",
+    "453.19c9e29f.chunk.js.map": "/yt-app/static/js/453.19c9e29f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd4b276d.css",
-    "static/js/main.36db2cff.js"
+    "static/js/main.89881488.js"
   ]
 }
