@@ -24,7 +24,6 @@ A modern and user-friendly video watching experience built with React and Mantin
 - [React](https://reactjs.org/) - UI development library
 - [Mantine UI](https://mantine.dev/) - Modern React component library
 - [React Router](https://reactrouter.com/) - Page routing
-- [React Player](https://github.com/CookPete/react-player) - Video player
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [Emotion](https://emotion.sh/) - CSS-in-JS solution
 
