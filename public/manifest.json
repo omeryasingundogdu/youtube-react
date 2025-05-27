@@ -1,0 +1,26 @@
+{
+  "short_name": "YouTube",
+  "name": "YouTube - Video Paylaşım Platformu",
+  "description": "A clone of YouTube built with React and Mantine.",
+  "icons": [
+    {
+      "src": "youtube-icon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "youtube-icon.ico",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "youtube-icon.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0F0F0F",
+  "background_color": "#0F0F0F"
+}

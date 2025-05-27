@@ -1,0 +1,46 @@
+
+
+.header-center {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+.header-center {
+    flex: 1; 
+    justify-content: center;
+}
+
+.search-bar {
+    width: 500px;
+    max-width: 500px;
+    color: rgb(66, 65, 65);
+    border-radius: 20px;
+    padding: 10px 15px;
+    border: none;
+}
+
+.logo {
+    height: 24px;
+}
+
+.notification-button {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+}
+.menu-dropdown {
+    background-color: black !important;
+    color: white !important;
+  }
+  
+  .menu-dropdown .mantine-Menu-item {
+    color: white !important;
+  }
+  
+  .menu-dropdown .mantine-Menu-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }

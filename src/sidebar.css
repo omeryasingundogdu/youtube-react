@@ -1,0 +1,18 @@
+.sidebar-button {
+  transition: all 0.2s ease !important;
+  border-radius: 8px !important;
+}
+
+.sidebar-button:hover {
+  background-color: #272727 !important;
+  cursor: pointer !important;
+}
+
+/* More specific selectors */
+button.sidebar-button:hover {
+  background-color: #272727 !important;
+}
+
+.mantine-Button-root.sidebar-button:hover {
+  background-color: #272727 !important;
+} 
