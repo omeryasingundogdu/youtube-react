@@ -70,4 +70,4 @@ You can access the live version of the project [disabled](...).
 
 Ömer Yasin Gündoğdu - [GitHub](https://github.com/omeryasingundogdu)
 
-Project Link: [https://github.com/omeryasingundogdu/yt-app](https://github.com/omeryasingundogdu/yt-app)
+my other projects: [https://github.com/omeryasingundogdu?tab=repositories](CLICK ME!!!!)
